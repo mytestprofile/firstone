@@ -1,0 +1,54 @@
+.carouselContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #edeff0;
+  height: 100vh;
+
+  .slider {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    width: fit-content;
+  }
+
+  .info {
+    width: 500px;
+    margin: 0 20px;
+    text-transform: uppercase;
+
+    & h1 {
+      font-weight: 500;
+      font-size: 60px;
+      line-height: 1;
+      color: #1f1e1e;
+    }
+    & p {
+      max-width: 320px;
+      font-size: 18px;
+      line-height: 1.4;
+      color: #2a2626;
+      opacity: 50%;
+    }
+    hr {
+      display: block;
+      height: 1px;
+      border: 0;
+      border-top: 1px solid #2a2828;
+      margin: 1em 0;
+      padding: 0;
+    }
+    button {
+      margin: 10px 0;
+      padding: 5px 20px;
+      cursor: pointer;
+      background: transparent;
+      border: 1px solid #2a2828;
+    }
+    button:hover {
+      background: #e1ecf1;
+      //color: #fff;
+      transition: 0.8s ease;
+    }
+  }
+}

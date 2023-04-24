@@ -1,0 +1,5 @@
+.navBar {
+    display: flex;
+    left: 70%;
+    position: fixed;
+}
