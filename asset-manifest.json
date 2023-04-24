@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/firstone/static/css/main.af8f0578.css",
+    "main.js": "/firstone/static/js/main.2e862dc0.js",
+    "static/js/787.ac34fb11.chunk.js": "/firstone/static/js/787.ac34fb11.chunk.js",
+    "static/media/carousel2.jpg": "/firstone/static/media/carousel2.7588f7c849a3343b3a67.jpg",
+    "static/media/carousel1.jpg": "/firstone/static/media/carousel1.4eada1851ceae505f4d0.jpg",
+    "static/media/Rotating_globe.gif": "/firstone/static/media/Rotating_globe.251c40f58031fb953840.gif",
+    "static/media/carousel3.jpg": "/firstone/static/media/carousel3.4eab1073e17dea2ff258.jpg",
+    "static/media/giphy.gif": "/firstone/static/media/giphy.8a9676e34176b70daf88.gif",
+    "index.html": "/firstone/index.html",
+    "main.af8f0578.css.map": "/firstone/static/css/main.af8f0578.css.map",
+    "main.2e862dc0.js.map": "/firstone/static/js/main.2e862dc0.js.map",
+    "787.ac34fb11.chunk.js.map": "/firstone/static/js/787.ac34fb11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af8f0578.css",
+    "static/js/main.2e862dc0.js"
+  ]
+}
